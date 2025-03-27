@@ -193,3 +193,4 @@ C:\Users\diego\OneDrive\Documents\Projects\To Do App\to-do-api\bin\Debug\net9.0\
 C:\Users\diego\OneDrive\Documents\Projects\To Do App\to-do-api\bin\Debug\net9.0\zh-Hans\Aspire.Hosting.resources.dll
 C:\Users\diego\OneDrive\Documents\Projects\To Do App\to-do-api\bin\Debug\net9.0\zh-Hant\Aspire.Hosting.resources.dll
 C:\Users\diego\OneDrive\Documents\Projects\To Do App\to-do-API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\diego\OneDrive\Documents\Projects\To Do App\to-do-API\obj\Debug\net9.0\to-do-API.sourcelink.json
