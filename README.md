@@ -11,6 +11,23 @@ git clone https://github.com/diegofch29/To-Do-API
    cd To-Do-API
 ```
 
+3. Configure the database connection in `appsettings.json`
+
+```sh
+   {
+    "Logging": {
+      "LogLevel": {
+        "Default": "Information",
+        "Microsoft.AspNetCore": "Warning"
+      }
+    },
+    "ConnectionStrings": {
+      "DefaultConnection": "<db_connection_string>"
+    },
+    "AllowedHosts": "*"
+  }
+```
+
 4. Run the database migrations:
 
 ```sh
